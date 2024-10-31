@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-porche/static/css/main.dcd548cf.css",
-    "main.js": "/react-gh-porche/static/js/main.c0ef6b5b.js",
+    "main.js": "/react-gh-porche/static/js/main.eda05525.js",
     "static/js/213.6427c122.chunk.js": "/react-gh-porche/static/js/213.6427c122.chunk.js",
     "static/js/732.8f79f1be.chunk.js": "/react-gh-porche/static/js/732.8f79f1be.chunk.js",
     "static/js/453.3102b5be.chunk.js": "/react-gh-porche/static/js/453.3102b5be.chunk.js",
@@ -17,13 +17,13 @@
     "static/media/samsung-galaxy.webp": "/react-gh-porche/static/media/samsung-galaxy.a8de15956191a0af2cec.webp",
     "index.html": "/react-gh-porche/index.html",
     "main.dcd548cf.css.map": "/react-gh-porche/static/css/main.dcd548cf.css.map",
-    "main.c0ef6b5b.js.map": "/react-gh-porche/static/js/main.c0ef6b5b.js.map",
+    "main.eda05525.js.map": "/react-gh-porche/static/js/main.eda05525.js.map",
     "213.6427c122.chunk.js.map": "/react-gh-porche/static/js/213.6427c122.chunk.js.map",
     "732.8f79f1be.chunk.js.map": "/react-gh-porche/static/js/732.8f79f1be.chunk.js.map",
     "453.3102b5be.chunk.js.map": "/react-gh-porche/static/js/453.3102b5be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd548cf.css",
-    "static/js/main.c0ef6b5b.js"
+    "static/js/main.eda05525.js"
   ]
 }
