@@ -15,8 +15,8 @@ function AutoSlideshow() {
 
 // Define a new style for responsive images
 const responsiveImageStyle = {
-    width: '100%',       // Makes the image take full width of the container
-    height: 'auto',      // Keeps the aspect ratio intact
+    maxWidth: '100%',       // Makes the image take full width of the container
+    maxHeight: '30vh',      // Keeps the aspect ratio intact
     objectFit: 'contain' // Ensures the image doesn't overflow
 };
 
