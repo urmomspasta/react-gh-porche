@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+
+.alert {
+  z-index: 1000; /* Make sure it's on top */
+  position: relative; /* Adjust positioning */
+  overflow: visible;
+  white-space: normal; 
+}
+
+input:invalid {
+  position: relative; /* Ensure the tooltip remains relative to the input field */
+}
+
+input:invalid::after {
+  content: attr(title);
+  position: absolute;
+  background: #f8d7da;
+  color: #721c24;
+  padding: 0.5em;
+  border-radius: 4px;
+  white-space: nowrap;
+  top: 100%;
+  left: 0;
+  transform: translateY(5px); /* Display tooltip slightly below the input */
+  z-index: 100;
+}

@@ -1,0 +1,14 @@
+.invoice-content p {
+    font-size: 20px/* Forces the style to be applied */
+}
+
+/* Define a class for PDF export */
+.export-pdf-content p,
+.export-pdf-content h1,
+.export-pdf-content h2,
+.export-pdf-content h3,
+.export-pdf-content h4,
+.export-pdf-content h5,
+.export-pdf-content h6 {
+    font-size: calc(1em + 10px) !important;
+}
