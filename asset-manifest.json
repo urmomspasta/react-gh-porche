@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-gh-porche/static/css/main.dcd548cf.css",
+    "main.js": "/react-gh-porche/static/js/main.c0ef6b5b.js",
+    "static/js/213.6427c122.chunk.js": "/react-gh-porche/static/js/213.6427c122.chunk.js",
+    "static/js/732.8f79f1be.chunk.js": "/react-gh-porche/static/js/732.8f79f1be.chunk.js",
+    "static/js/453.3102b5be.chunk.js": "/react-gh-porche/static/js/453.3102b5be.chunk.js",
+    "static/media/iphone-16.webp": "/react-gh-porche/static/media/iphone-16.63841676a68783c120b9.webp",
+    "static/media/xiaomi.webp": "/react-gh-porche/static/media/xiaomi.f295d28db00b5ea83d4e.webp",
+    "static/media/samsung-charger.jpg": "/react-gh-porche/static/media/samsung-charger.ba4a88b09d7ac9d439db.jpg",
+    "static/media/iphone-14.webp": "/react-gh-porche/static/media/iphone-14.d1058dc67180b90db4cc.webp",
+    "static/media/iphone-charger.jpg": "/react-gh-porche/static/media/iphone-charger.187bfa97cd3abd2d788e.jpg",
+    "static/media/xiaomi-charger.jpeg": "/react-gh-porche/static/media/xiaomi-charger.07f431db5bbbe87cbc39.jpeg",
+    "static/media/nokie.webp": "/react-gh-porche/static/media/nokie.1d43fcfcec8a65b3a80f.webp",
+    "static/media/iphone-x-silver.webp": "/react-gh-porche/static/media/iphone-x-silver.e69905cb26e16e1111c3.webp",
+    "static/media/nokia-charger.webp": "/react-gh-porche/static/media/nokia-charger.9e57fe54a7b6c55327c5.webp",
+    "static/media/samsung-galaxy.webp": "/react-gh-porche/static/media/samsung-galaxy.a8de15956191a0af2cec.webp",
+    "index.html": "/react-gh-porche/index.html",
+    "main.dcd548cf.css.map": "/react-gh-porche/static/css/main.dcd548cf.css.map",
+    "main.c0ef6b5b.js.map": "/react-gh-porche/static/js/main.c0ef6b5b.js.map",
+    "213.6427c122.chunk.js.map": "/react-gh-porche/static/js/213.6427c122.chunk.js.map",
+    "732.8f79f1be.chunk.js.map": "/react-gh-porche/static/js/732.8f79f1be.chunk.js.map",
+    "453.3102b5be.chunk.js.map": "/react-gh-porche/static/js/453.3102b5be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd548cf.css",
+    "static/js/main.c0ef6b5b.js"
+  ]
+}
