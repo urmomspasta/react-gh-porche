@@ -3,7 +3,7 @@ import Header from './my-components/Header';//import Header Component
 import Footer from './my-components/Footer';//import Footer Component
 import Home from './my-components/Home';//import Home Component
 import AdvancedJS from './my-components/AdvancedJS';//import AdvancedJS Component
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import FAQ from './my-components/FAQ';//import FAQ Component
 import Invoice from './my-components/Invoice';//import Invoice Component
 //Function Component "App"
@@ -11,7 +11,7 @@ function App() {
   //Component UI: HTML Rendering
   return (
     <>{/*React Fragment: serve as parent component in JSX and doesn't add anything to the DOM*/}
-      <Router basename="/react-gh-porche">
+      <Router>
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
