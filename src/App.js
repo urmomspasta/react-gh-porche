@@ -11,7 +11,7 @@ function App() {
   //Component UI: HTML Rendering
   return (
     <>{/*React Fragment: serve as parent component in JSX and doesn't add anything to the DOM*/}
-      <Router>
+      <Router basename="/react-gh-porche">
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
